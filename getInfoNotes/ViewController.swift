@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+var test = 777
+    
     @IBOutlet weak var ageOutlet: UITextField!
     @IBOutlet weak var nameOutlet: UITextField!
     @IBOutlet weak var helloOutlet: UILabel!
